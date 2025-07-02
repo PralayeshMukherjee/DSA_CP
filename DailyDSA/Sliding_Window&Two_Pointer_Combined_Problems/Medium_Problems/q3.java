@@ -25,3 +25,5 @@ public class q3 {
         return count;
     }
 }
+// TC:- O(N+N)
+// SC:- O(3)
