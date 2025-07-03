@@ -14,3 +14,5 @@ public class q6 {
         return count;
     }
 }
+// TC:- O(N)
+// SC:- O(1)
